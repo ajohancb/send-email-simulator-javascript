@@ -1,4 +1,4 @@
-# simuladordecarritoenjavascript
+# Send Email Simulator on Javascript
 
 Welcome to the Send Email Simulator!
 
